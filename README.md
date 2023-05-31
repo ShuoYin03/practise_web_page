@@ -1,2 +1,2 @@
 # practise_web_page
-Written by HTML and CSS
+Simple responsive web page written by HTML and CSS
